@@ -1,0 +1,38 @@
+.action-btn:hover{
+    background-color: #FE8402 !important;
+    border:1px solid #FE8402 !important;
+
+}
+.action-btn{
+    background-color: #516CF0 !important;
+}
+.nav-item a:hover{
+color: #FE8402 !important;
+}
+.landing{
+    height: 100vh;
+}
+.account{
+    color: #FE8402 !important;   
+}
+p{
+    color:  #656565 !important;
+}
+.account :hover{
+    
+    text-decoration: underline !important;
+
+}
+
+.user svg{
+   width: 75px; 
+   height: 75px;
+}
+.arrow svg{
+    width:25px; 
+    height:25px;
+   margin-top: 33px;
+ }
+
+ 
+
