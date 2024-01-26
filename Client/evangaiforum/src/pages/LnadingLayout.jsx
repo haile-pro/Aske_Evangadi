@@ -23,12 +23,12 @@ function LnadingLayout() {
                           <h1 className='fw-semibold'style={{color:"#4B456F"}}>Evangadi Networks Q&A</h1>
                           <div className='d-flex  flex-column gap-4 '>
                              <p>
-                             No matter what stage of life you are in, whether you’re just starting elementary school or being promoted to CEO of a Fortune 500 company, 
-                             you have much to offer to those who are trying to follow in your footsteps.
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum.
                              </p>
                              <p>
-                              Wheather you are willing to share your knowledge or you are just looking to 
-                              meet mentors of your own, please start by joining the network here.
+                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum.
                               </p>
                           </div>
                           <div>
